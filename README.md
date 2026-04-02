@@ -27,6 +27,12 @@ node -v
 npm -v
 ```
 
+set node version :
+
+```bash
+nvm use 22
+```
+
 ## 🚀 How to Run
 
 ### Change Directory
