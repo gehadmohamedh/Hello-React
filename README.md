@@ -1,17 +1,45 @@
-# React + Vite
+# ⚛️ Hello React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A super simple React app built with Vite to demonstrate how frontend apps can run locally and inside Docker.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 About the App
 
-## React Compiler
+This is a basic **Hello World React application**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ⚛️ Built with React + Vite  
+- ⚡ Fast development server  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Hello-React-
+## 📋 Prerequisites
+
+Make sure you have installed:
+
+- Node.js **v22**
+- npm (comes with Node.js)
+
+Check versions:
+
+```bash
+node -v
+npm -v
+```
+
+## 🚀 How to Run
+
+### Change Directory
+```
+cd Hello-React/
+
+```
+### install dependancies 
+
+```
+npm install 
+```
+### Run the server 
+```
+npm run dev
+```
